@@ -9,4 +9,6 @@ Porém é possível otimizar e atualizar os ativos com histórico local acessand
 
 Após isso, basta chamar a função informando a lista dos ativos que deseja.
 
+A função load_ibrx100, retorna uma lista com todos os ativos que compõe o IBRX-100, disponível em: http://br.advfn.com/indice/ibrx
+
 Enjoy!
